@@ -10,4 +10,4 @@ run Application
 #     visit '/'
 #     expect(page.body).to include("Welcome!")
 #   end
-end
+# end
